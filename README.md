@@ -7,5 +7,10 @@ Description:<br>
 ==How to?==<br>
 	1. Enter or paste text to input box<br>
 	2. Press Enter or click Traslate! button.<br>
-	3. Traslated text will appear in same text box.
+	3. Traslated text will appear in same text box.<br>
+<br>
+==Download!==<br>
+	Windows OS: TrasTHKeys_bin.zip<br>
+	Other OS/Source code: translate.pyw
+ 
 
