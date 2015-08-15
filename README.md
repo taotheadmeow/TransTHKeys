@@ -1,6 +1,6 @@
 # TransTHKeys
 This is my Pico-Project!<br>
-==TrasTHKeys==<br>
+==TransTHKeys==<br>
 Description:<br>
 	Program will traslate incorrect text that from incorrect switching input language between TH-EN.<br><br>
 
