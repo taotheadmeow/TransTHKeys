@@ -10,7 +10,7 @@ Description:<br>
 	3. Traslated text will appear in same text box.<br>
 <br>
 ==Download!==<br>
-	Windows OS: <a href="TrasTHKeys_bin.zip?raw=True">TrasTHKeys_bin.zip</a><br>
+	Windows OS: <a href="TransTHKeys_bin.zip?raw=True">TransTHKeys_bin.zip</a><br>
 	Other OS/Source code: <a href="translate.pyw">translate.pyw
  
 
