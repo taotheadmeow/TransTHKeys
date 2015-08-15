@@ -45,7 +45,7 @@ class Application(tk.Frame):
         return final
 
 root = tk.Tk()
-root.title("TrasTHKeys")
+root.title("TransTHKeys")
 app = Application(master=root)
 app.mainloop()
 
