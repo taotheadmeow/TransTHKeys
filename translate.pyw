@@ -7,14 +7,13 @@ class Application(tk.Frame):
         self.createWidgets()
 
     def createWidgets(self):
+        self.master.bind("<Return>", self.get_data)
         self.text_in = tk.Entry(self, width=100)
         self.text_in.pack(side="top", padx=10, pady=5)
-        self.tr_button = tk.Button(self)
-        self.tr_button["text"] = "Translate!"
-        self.tr_button["command"] = self.get_data
+        self.tr_button = tk.Button(self, text="Translate!")
+##      self.tr_button["command"] = self.get_data
+        self.tr_button.bind("<Button-1>", self.get_data)
         self.tr_button.pack(side="bottom", pady=5)
-        self.master.bind("<Return>", self.get_data)
-        
 
     def get_data(self, event):
         got_text = self.text_in.get()
