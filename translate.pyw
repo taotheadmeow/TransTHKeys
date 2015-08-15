@@ -1,3 +1,8 @@
+'''
+TransTHKeys!
+Language: Python 3
+Developed by Sakan Promlainak
+'''
 import tkinter as tk
 
 class Application(tk.Frame):
@@ -44,12 +49,16 @@ root.title("TrasTHKeys")
 app = Application(master=root)
 app.mainloop()
 
+##THIS IS NON-GUI CODE
+##
 ##print('Type "exit" (with out quote) to end this program')
 ##while 1:
 ##    text = input('Text: ')
 ##    if text.lower() == 'exit':
 ##        break
 ##    print('Translated:',trans(text))
+##
+################################################################
     
 
 
